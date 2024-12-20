@@ -30,7 +30,7 @@ This repository contains a Dockerfile to set up a base development environment t
 - **TINI**: Ensures graceful shutdown of the container.
 - **Conda Environment Integration**: Uses `conda` environments for virtual environments, managed by Poetry.
 
-### Setup Instructions if you decided not to use it in a dev contianer:
+### Setup Instructions (If Not Using a Development Container)::
 
 1. Clone the repository:
    ```bash
